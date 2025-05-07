@@ -1,0 +1,5 @@
+<Recipe name="Open AE Dashboard">
+  <Extern class="Web">
+    <Page url="http://localhost:8089" /> 
+  </Extern> 
+</Recipe> 

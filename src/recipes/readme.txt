@@ -1,0 +1,1 @@
+This is the recipe folder. You can create your recipes or copy examples from https://svn.code.sf.net/p/anteater/code/trunk/ae-samples/recipes.
